@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+# Just a Clock
+![image](https://github.com/JonathanToker/React-Clock/assets/116793943/b1f68c86-5c74-437a-8a28-bf900c207007)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
